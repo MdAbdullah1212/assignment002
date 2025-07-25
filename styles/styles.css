@@ -346,9 +346,9 @@ color: #ffffff;
     justify-content: space-evenly;
 }
 .logo-description{
-    font-size: var(--p-font-size);
+    font-size: 1.4rem;
     color: var(--p-color);
-    width: 400px;
+    width: 360px;
 }
 .info{
     color: var(--p-color);
