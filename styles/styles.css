@@ -346,9 +346,10 @@ color: #ffffff;
     justify-content: space-evenly;
 }
 .logo-description{
-    font-size: 1.4rem;
+    font-size: 1.25rem;
     color: var(--p-color);
     width: 360px;
+    font-weight: 500;
 }
 .info{
     color: var(--p-color);
